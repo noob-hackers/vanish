@@ -12,7 +12,8 @@ pkg install python -y
 pkg install python2 -y
 pkg install nano -y
 pkg install php -y
-pip install lolcat 
+pip install lolcat
+clear
 cd /sdcard
 mkdir vanrc
 cd $HOME/vanish
