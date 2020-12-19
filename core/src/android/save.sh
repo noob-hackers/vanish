@@ -1,6 +1,7 @@
 save(){
 clear
 cd /sdcard/vanrc
+rm *
 cd $HOME
 cp $HOME/vanish/core/src/android/Save.apk /sdcard/vanrc
 clear
