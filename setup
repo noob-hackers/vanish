@@ -1,0 +1,20 @@
+clear
+echo -e "\e[92m      |------------[ INSTALLATION STARTED ]-----------------|"
+echo -e "\e[92      |-------[KEEP YOUR DEVICE AWAY FOR WHILE]-------------|"
+sleep 4.0
+apt-get update 
+apt-get upgrade
+termux-setup-storage
+pkg install git -y
+pkg install wget -y
+pkg install openssh -y
+pkg install python -y
+pkg install python2 -y
+pkg install nano -y
+pkg install php -y
+pip install lolcat 
+cd /sdcard
+mkdir vanrc
+cd $HOME/vanish
+rm setup
+bash vanish
