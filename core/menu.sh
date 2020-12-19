@@ -1,4 +1,4 @@
-banner(){
+clear
 echo -e '\e[91m
  ██▒   █▓ ▄▄▄       ███▄    █  ██▓  ██████  ██░ ██ 
 ▓██░   █▒▒████▄     ██ ▀█   █ ▓██▒▒██    ▒ ▓██░ ██▒
@@ -39,6 +39,5 @@ echo                "wrong command"
 sleep 3.0
 exit 1
 fi
-}
 banner
 sel
