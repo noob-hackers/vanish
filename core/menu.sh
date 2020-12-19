@@ -12,8 +12,6 @@ echo -e '\e[91m
      ░                                             '
 echo -e "\e[92m                  Subscribe On Youtube"
 echo -e "                 \e[101m:::. Noob Hackers .:::\e[0m" 
-}
-sel(){
 echo
 echo -e "                    \e[92m─\e[0m\e[92m(\e[91m1\e[92m)\e[0m\e[92m─\e[0m\e[91m Windows\e[0m"
 echo -e "                    \e[92m─\e[0m\e[92m(\e[91m2\e[92m)\e[0m\e[92m─\e[0m\e[91m Macentosh\e[0m"
@@ -39,5 +37,3 @@ echo                "wrong command"
 sleep 3.0
 exit 1
 fi
-banner
-sel
