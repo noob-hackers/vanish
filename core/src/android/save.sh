@@ -1,9 +1,8 @@
 save(){
 clear
-cd /sdcard/vanrc >/dev/null 2>&1
-rm * >/dev/null 2>&1
+cd /sdcard/vanrc
 cd $HOME
-cp $HOME/vanish/core/src/android/Save.apk /sdcard/vanrc >/dev/null 2>&1
+cp $HOME/vanish/core/src/android/Save.apk /sdcard/vanrc
 clear
 echo -e "\e[91m
                 ┌─┐┌─┐┬  ┬┌─┐
