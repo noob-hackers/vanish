@@ -33,7 +33,6 @@ elif [[ $option == 4 || $option == 04 ]]; then
 cd $HOME/vanish/core/
 bash linux.sh
 else
-echo                "wrong command"
 sleep 3.0
 exit 1
 fi
