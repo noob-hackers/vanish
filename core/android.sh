@@ -1,4 +1,5 @@
 android(){
+clear
 echo -e "\e[91m 
             ____ _  _ ___  ____ ____ _ ___ 
             |__| |\ | |  \ |__/ |  | | |  \ 
@@ -47,4 +48,5 @@ else
 echo
 fi
 }
+clear
 android
