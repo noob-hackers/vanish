@@ -31,6 +31,7 @@ wordsb="linux-update-v23.0"
 finalb=$wordsb@$shorterb
 url="https://m.youtube.com/redirect?q=${link}"
 tiny=$(curl -s http://tinyurl.com/api-create.php?url=${url})
+ssh="https://rb.gy/ngpn6g"
 echo -e "\e[91m│"
 echo -e "\e[91m│\e[91m\e[92m─\e[0m\e[92m(\e[91mShort\e[92m)\e[0m\e[92m➤ \e[0m\e[93m$link\e[0m"
 echo -e "\e[91m│"
