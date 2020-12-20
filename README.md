@@ -7,7 +7,7 @@
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="mrphish" src="https://user-images.githubusercontent.com/49580304/94993249-78f26a80-0544-11eb-98a7-f6c39bc6b298.jpg"></a>
+<a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="mrphish" src="https://user-images.githubusercontent.com/49580304/102707183-9da9d480-424d-11eb-86c2-8b56a6c43fe0.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
@@ -24,7 +24,7 @@
 
 ## ABOUT TOOL :
 
-Vansih is a bash based script which is officially made for creating all os based virus and malware which destroys victims computer or any gadget. This tool works on both rooted Android device and Non-rooted Android device.
+Vanish is a bash based script which is officially made for creating all os based virus and malware which destroys victims computer or any gadget. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON :
 
