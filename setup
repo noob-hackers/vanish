@@ -1,6 +1,6 @@
 clear
-echo -e "\e[92m      |------------[ INSTALLATION STARTED ]-----------------|"
-echo -e "\e[92      |-------[KEEP YOUR DEVICE AWAY FOR WHILE]-------------|"
+echo -e "\e[92m      |--------[ INSTALLATION STARTED ]----------|"
+echo -e "\e[92      |-----[KEEP YOUR DEVICE AWAY FOR WHILE]------|"
 sleep 4.0
 apt-get update 
 apt-get upgrade
@@ -14,6 +14,7 @@ pkg install nano -y
 pkg install php -y
 pip install lolcat
 clear
+cd $HOME
 cd /sdcard
 mkdir vanrc
 cd $HOME/vanish
