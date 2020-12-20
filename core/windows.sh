@@ -17,7 +17,7 @@ echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m9\e[92m)\e[0m\e[9
 echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m10\e[92m)\e[0m\e[92m─\e[0m\e[91m Internet Jammer\e[0m"
 echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m11\e[92m)\e[0m\e[92m─\e[0m\e[91m Freeze windows\e[0m"
 echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m12\e[92m)\e[0m\e[92m─\e[0m\e[91m Corrupts Os\e[0m"
-echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m12\e[92m)\e[0m\e[92m─\e[0m\e[91m User Flooder\e[0m"
+echo -e "\e[91m                  │\e[92m─\e[0m\e[92m(\e[91m13\e[92m)\e[0m\e[92m─\e[0m\e[91m User Flooder\e[0m"
 echo
 echo -ne "\e[91m─(\e[92mWIN\e[0m\e[91m)─\e[92mChoose Virus: \e[0m"
 read device
@@ -57,7 +57,7 @@ bash processbomb.sh
 elif [[ $device == 12 || $device == 12 ]]; then
 cd $HOME/vanish/core/src/windows
 bash registerydelete.sh
-elif [[ $device == 12 || $device == 12 ]]; then
+elif [[ $device == 13 || $device == 13 ]]; then
 cd $HOME/vanish/core/src/windows
 bash userbomb.sh
 else
