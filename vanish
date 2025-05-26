@@ -59,7 +59,7 @@ cd $HOME/vanish/core/src
 bash about.sh
 elif [[ $option == 5 || $option == 05 ]]; then
 clear
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+am start -a android.intent.action.VIEW -d https://bit.ly/nbhytchannel
 clear
 sleep 3.0
 cd $HOME/vanish
